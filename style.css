@@ -165,7 +165,7 @@ aside {
 footer {
     padding: 12px;
     background-color: var(--dark-bg);    
-    border-radius: 0 16px 16px;
+    border-radius: 0 0 16px 16px;
 }
 
 footer p {
